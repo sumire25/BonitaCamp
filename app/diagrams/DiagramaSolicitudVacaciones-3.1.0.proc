@@ -172,7 +172,7 @@
           <stepSummary xmi:type="expression:Expression" xmi:id="_1G6clES6EfCva7wwxwpxbA" name="" content="" returnTypeFixed="true"/>
         </elements>
       </elements>
-      <elements xmi:type="process:Lane" xmi:id="_1G6clUS6EfCva7wwxwpxbA" name="Validador" actor="_1G6cx0S6EfCva7wwxwpxbA">
+      <elements xmi:type="process:Lane" xmi:id="_1G6clUS6EfCva7wwxwpxbA" name="Validador" actor="_1G6cyES6EfCva7wwxwpxbA">
         <elements xmi:type="process:Task" xmi:id="_1G6clkS6EfCva7wwxwpxbA" name="Validar solicitud" outgoing="_1G6ct0S6EfCva7wwxwpxbA" incoming="_1G6ctES6EfCva7wwxwpxbA" overrideActorsOfTheLane="false">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_1G6cl0S6EfCva7wwxwpxbA" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_1G6cmES6EfCva7wwxwpxbA" name="" content="" returnTypeFixed="true"/>
